@@ -1,2 +1,2 @@
-# facet-mock
+# pypi-mock1
 Mock repo for PyPI
